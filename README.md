@@ -5,6 +5,17 @@ A simple and clean landing page for showcasing earrings.
 🔗 Live site:  
 https://carolsdesigns-elunzglowup.github.io/EarEssence/
 
+## Preview
+
+### Homepage
+![Homepage](image/earessence.jpg)
+
+### Product Section
+![Product](image/earessence(1).png)
+
+### About Section
+![About](./image/earessence(2).jpg)
+
 ---
 
 ## About the Project
