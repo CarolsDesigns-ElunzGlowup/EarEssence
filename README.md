@@ -8,7 +8,7 @@ https://carolsdesigns-elunzglowup.github.io/EarEssence/
 ## Preview
 
 ### Homepage
-![Homepage](image/earessence.jpg)
+![Homepage]images/earessence (1).jpg
 
 ### Product Section
 ![Product](image/earessence(1).png)
